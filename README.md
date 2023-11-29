@@ -1,6 +1,6 @@
 ### Hi I'm Medieval Apple 🍎
 
-<a href="https://joust.medievalapple.net/">My Website 💻</a>
+<a href="https://medievalapple.net/">My Website 💻</a>
 <a href="https://joust.medievalapple.net/">Joust Brigade 👑</a>
 <a href="https://rally.medievalapple.net/">Rally Waffle 🧇</a>
 <a href="https://sprig.hackclub.com/gallery/The_Legend_Of_Sprig">The Legend Of Sprig ⚔</a>
