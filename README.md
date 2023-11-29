@@ -1,11 +1,8 @@
 ### Hi I'm Medieval Apple 🍎
 
-<a href="https://joust.medievalapple.net/">
-  <img align="center" height="4%" width="4%" style="image-rendering: pixelated;" alt="Joust Brigade" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
-</a>
-<a href="https://rally.medievalapple.net/">
-  <img align="center" alt="Rally Waffle" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
-</a>
+<a href="https://joust.medievalapple.net/">My Website</a>
+<a href="https://joust.medievalapple.net/">Joust Brigade</a>
+<a href="https://rally.medievalapple.net/">Rally Waffle</a>
 
 <!--
 **MedievalApple/medievalapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
