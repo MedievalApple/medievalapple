@@ -1,6 +1,6 @@
 
 <a href="https://joust.medievalapple.net/">
-  <img align="right" alt="Discord Status" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
+  <img align="right" height="150%" width="150%" alt="Discord Status" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
 </a>
 <a href="https://rally.medievalapple.net/">
   <img align="right" alt="Discord Status" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
