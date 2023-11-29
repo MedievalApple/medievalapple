@@ -1,10 +1,10 @@
 ### Hi I'm Medieval Apple 🍎
 
 <a href="https://joust.medievalapple.net/">
-  <img align="center" height="50%" width="50%" alt="Joust Brigade" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
+  <img align="center" height="10%" width="10%" alt="Joust Brigade" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
 </a>
 <a href="https://rally.medievalapple.net/">
-  <img align="right" alt="Rally Waffle" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
+  <img align="center" alt="Rally Waffle" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
 </a>
 
 <!--
