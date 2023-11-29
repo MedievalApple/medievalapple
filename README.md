@@ -1,7 +1,9 @@
 ### Hi I'm Medieval Apple 🍎
 
 <a href="https://joust.medievalapple.net/">My Website</a>
+<p> | </p>
 <a href="https://joust.medievalapple.net/">Joust Brigade</a>
+<p> | </p>
 <a href="https://rally.medievalapple.net/">Rally Waffle</a>
 
 <!--
