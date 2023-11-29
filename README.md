@@ -2,8 +2,11 @@
 <a href="https://joust.medievalapple.net/">
   <img align="right" alt="Discord Status" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
 </a>
+<a href="https://rally.medievalapple.net/">
+  <img align="right" alt="Discord Status" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
+</a>
 
-### Hi there I'm Medieval Apple👋
+### Hi I'm Medieval Apple 🍎
 
 <!--
 **MedievalApple/medievalapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
