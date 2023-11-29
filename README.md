@@ -1,9 +1,9 @@
 ### Hi I'm Medieval Apple 🍎
 
-<a href="https://medievalapple.net/">My Website 💻</a>
-<a href="https://joust.medievalapple.net/">Joust Brigade 👑</a>
-<a href="https://rally.medievalapple.net/">Rally Waffle 🧇</a>
-<a href="https://sprig.hackclub.com/gallery/The_Legend_Of_Sprig">The Legend Of Sprig ⚔</a>
+<a href="https://medievalapple.net/">My Website 💻</a> | 
+<a href="https://joust.medievalapple.net/">Joust Brigade 👑</a> | 
+<a href="https://rally.medievalapple.net/">Rally Waffle 🧇</a> | 
+<a href="https://sprig.hackclub.com/gallery/The_Legend_Of_Sprig">The Legend Of Sprig ⚔</a> | 
 <a href="https://github.com/hackclub/sprig/blob/main/games/The_Legend_Of_Sprig.js">The Legend Of Sprig Source 👩‍💻</a>
 
 <!--
