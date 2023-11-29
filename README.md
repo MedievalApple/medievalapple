@@ -1,5 +1,7 @@
 
-<a href="https://joust.medievalapple.net/" align="right">Check Out Joust Brigade</a>
+<a href="https://joust.medievalapple.net/">
+  <img align="right" alt="Discord Status" src=https://raw.githubusercontent.com/MedievalApple/Joust-Brigade/main/public/assets/sprite_sheet/ostrich/walk_ostrich/walk3.png>
+</a>
 
 ### Hi there I'm Medieval Apple👋
 
